@@ -46,3 +46,10 @@ pip-log.txt
 pip-delete-this-directory.txt
 .cache
 .pytest_cache
+
+./package
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+*.tfvars
