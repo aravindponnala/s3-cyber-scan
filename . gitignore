@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+venv/
+env/
+# add other environment names here if needed, e.g.:
+# my_project_env/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.whl
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*,cover
+
+# Editor-specific files
+.idea/  # For PyCharm
+.vscode/ # For VS Code
+*.swp
+*~
+.DS_Store # macOS system files
+
+# Miscellaneous
+pip-log.txt
+pip-delete-this-directory.txt
+.cache
+.pytest_cache
